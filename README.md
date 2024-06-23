@@ -1,2 +1,2 @@
 # Delta-Demo
-First Git &amp; Github Demo repository
+First Git &amp; Github Demo repository.
